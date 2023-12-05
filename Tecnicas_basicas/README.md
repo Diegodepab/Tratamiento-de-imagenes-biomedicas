@@ -1,4 +1,4 @@
-Se trabajaran con unas imagenes en formato DICOM
+Se trabajaran con unas imágenes en formato DICOM
 1. Estructura ósea
 2. Hígado
 3. Hueso
