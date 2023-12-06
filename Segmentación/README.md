@@ -1,4 +1,5 @@
 Segmentación de imágenes (Umbralización y superpíxels)
+
 1)Umbralización
   1.1)algoritmo propio para la imagen 5 capaz de hacer una umbralización automática e iterativa
   1.2)Método de Otsu
