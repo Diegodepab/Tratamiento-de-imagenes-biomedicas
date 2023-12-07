@@ -8,5 +8,6 @@ Segmentación y análisis de imágenes 2
   1.5. Umbralización global o adaptativa (teorico + codigo)
   1.6. Uso de descriptores basados en texturas u otros parámetros estadísticos (teorico + app de matlab)
   1.7. Watershed (teorico)
-2.Postprocesado, aplicación de filtro morfologicos a las mejor segmentación mediante el uso de bwmorph() (explicado mejor en el pdf
+2. Postprocesado, aplicación de filtro morfologicos a las mejor segmentación mediante el uso de bwmorph() (explicado mejor en el pdf
 3. Descriptores mediante  regionprops(…) y funciones más directas 
+
