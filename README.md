@@ -4,3 +4,5 @@ Un recopilatorio de algunas practicas realizadas en Matlab en la asignatura de i
 2) Filtrado espacial de imagenes biomedicas
 3) Segmentación de imágenes (Umbralización y superpíxels)
 4) Segmentación y análisis de imágenes 2 (crecimiento de regiones, split and merge, etc.)
+
+EXTRAS: SIMILAR THINGS
